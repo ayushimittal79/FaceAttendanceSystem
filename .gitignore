@@ -1,0 +1,7 @@
+# Build output (includes FaceData/ with registered students' photos)
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
